@@ -32,7 +32,7 @@ My primary focus is extending **LG webOS** and living-room entertainment hardwar
 
 ---
 
-### 🎬 Home Cinema &amp; Media Streaming Plugins
+### 🎬 Home Cinema & Media Streaming Plugins
 
 | Project | Description | Stack | Highlights |
 |:---|:---|:---|:---|
@@ -41,49 +41,49 @@ My primary focus is extending **LG webOS** and living-room entertainment hardwar
 
 ---
 
-### 🛠 Tech Stack &amp; Capabilities
+### 🛠 Tech Stack & Capabilities
 
-#### 💻 Languages &amp; Core Runtimes
+#### 💻 Languages & Core Runtimes
 <p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python_3-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python 3" />
-  <img src="https://img.shields.io/badge/Qt_%2F_QML-41CD52?style=for-the-badge&amp;logo=qt&amp;logoColor=white" alt="Qt / QML" />
-  <img src="https://img.shields.io/badge/Shell_Bash-4EAA25?style=for-the-badge&amp;logo=gnubash&amp;logoColor=white" alt="Shell / Bash" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python_3-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 3" />
+  <img src="https://img.shields.io/badge/Qt_%2F_QML-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt / QML" />
+  <img src="https://img.shields.io/badge/Shell_Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Shell / Bash" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
 </p>
 
-#### 🎨 Frontend, Frameworks &amp; Styling
+#### 🎨 Frontend, Frameworks & Styling
 <p align="left">
-  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&amp;logo=svelte&amp;logoColor=white" alt="Svelte" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/OLED_Black_%23000000-000000?style=for-the-badge&amp;logo=target&amp;logoColor=38bdf8" alt="OLED True Black" />
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/OLED_Black_%23000000-000000?style=for-the-badge&logo=target&logoColor=38bdf8" alt="OLED True Black" />
 </p>
 
-#### ⚙️ Embedded, Platforms &amp; Operating Systems
+#### ⚙️ Embedded, Platforms & Operating Systems
 <p align="left">
-  <img src="https://img.shields.io/badge/LG_webOS_24%2F25-A50034?style=for-the-badge&amp;logo=lg&amp;logoColor=white" alt="LG webOS" />
-  <img src="https://img.shields.io/badge/Luna_Bus_IPC-0284C7?style=for-the-badge&amp;logo=codeforces&amp;logoColor=white" alt="Luna Bus" />
-  <img src="https://img.shields.io/badge/Linux_Kernel-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Armbian-002B36?style=for-the-badge&amp;logo=armbian&amp;logoColor=white" alt="Armbian" />
-  <img src="https://img.shields.io/badge/OpenWrt-005B94?style=for-the-badge&amp;logo=openwrt&amp;logoColor=white" alt="OpenWrt" />
-  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&amp;logo=apple&amp;logoColor=white" alt="macOS" />
+  <img src="https://img.shields.io/badge/LG_webOS_24%2F25-A50034?style=for-the-badge&logo=lg&logoColor=white" alt="LG webOS" />
+  <img src="https://img.shields.io/badge/Luna_Bus_IPC-0284C7?style=for-the-badge&logo=codeforces&logoColor=white" alt="Luna Bus" />
+  <img src="https://img.shields.io/badge/Linux_Kernel-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Armbian-002B36?style=for-the-badge&logo=armbian&logoColor=white" alt="Armbian" />
+  <img src="https://img.shields.io/badge/OpenWrt-005B94?style=for-the-badge&logo=openwrt&logoColor=white" alt="OpenWrt" />
+  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS" />
 </p>
 
-#### 🌐 Audio, Video, Networking &amp; Infrastructure
+#### 🌐 Audio, Video, Networking & Infrastructure
 <p align="left">
-  <img src="https://img.shields.io/badge/Dolby_Vision_%26_HDR10-000000?style=for-the-badge&amp;logo=dolby&amp;logoColor=white" alt="Dolby Vision" />
-  <img src="https://img.shields.io/badge/HDMI--CEC_eARC-7C3AED?style=for-the-badge&amp;logo=sony&amp;logoColor=white" alt="HDMI-CEC eARC" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&amp;logo=wireguard&amp;logoColor=white" alt="WireGuard" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Dolby_Vision_%26_HDR10-000000?style=for-the-badge&logo=dolby&logoColor=white" alt="Dolby Vision" />
+  <img src="https://img.shields.io/badge/HDMI--CEC_eARC-7C3AED?style=for-the-badge&logo=sony&logoColor=white" alt="HDMI-CEC eARC" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white" alt="WireGuard" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ---
 
-### 📊 GitHub Activity &amp; Streak
+### 📊 GitHub Activity & Streak
 
 <div align="center">
   <a href="https://github.com/emoorpheus">
