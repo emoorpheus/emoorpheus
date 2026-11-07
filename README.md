@@ -7,15 +7,14 @@
     <a href="https://github.com/emoorpheus?tab=repositories"><img src="https://img.shields.io/badge/Platform-LG%20webOS%2024%2F25-E01E5A?style=for-the-badge&amp;logo=lg&amp;logoColor=white" alt="LG webOS" /></a>
     <a href="https://github.com/emoorpheus"><img src="https://img.shields.io/badge/Aesthetics-OLED%20True%20Black-000000?style=for-the-badge&amp;logo=target&amp;logoColor=38bdf8" alt="OLED True Black" /></a>
     <a href="https://github.com/emoorpheus/eArcNG"><img src="https://img.shields.io/badge/Sound-HDMI--CEC%20eARC-7c3aed?style=for-the-badge&amp;logo=sony&amp;logoColor=white" alt="HDMI-CEC eARC" /></a>
-    <a href="https://github.com/emoorpheus"><img src="https://img.shields.io/badge/Location-Kazan%2C%20RU-0f172a?style=for-the-badge&amp;logo=googlemaps&amp;logoColor=38bdf8" alt="Kazan, RU" /></a>
   </p>
 </div>
 
 ### ⚡ Overview
 
-Software engineer, IT infrastructure lead, and home cinema enthusiast focused on **embedded Smart TV platforms**, **OLED display optimization**, and **frictionless media streaming**.
+Software engineer, IT infrastructure lead, and systems min-maxer focused on **embedded Smart TV platforms**, **OLED display optimization**, and **frictionless media streaming**.
 
-My primary focus is extending **LG webOS** beyond its factory limits:
+My primary focus is extending **LG webOS** and living-room entertainment hardware beyond factory limitations:
 - 🔌 **Deep System Integration:** Interfacing directly with low-level `Luna-Send` bus services, IPC daemons, and system audio/display pipelines.
 - 🖤 **OLED-First Design:** Engineering pure-black (`#000000`) interfaces, sub-pixel contrast tuning, and glare-free HDR / Dolby Vision subtitle renderers.
 - 🚀 **Next-Gen (NG) Applications:** Rebuilding sluggish native web apps into responsive, ad-free, high-performance TV experiences.
@@ -42,19 +41,45 @@ My primary focus is extending **LG webOS** beyond its factory limits:
 
 ---
 
-### 🛠 Tech Stack &amp; Architecture
+### 🛠 Tech Stack &amp; Capabilities
 
-```
-┌─────────────────┬─────────────────────────────────────────────────────────────────────────┐
-│ Category        │ Technologies & Tools                                                    │
-├─────────────────┼─────────────────────────────────────────────────────────────────────────┤
-│ TV & Embedded   │ LG webOS 24/25, Luna Bus (luna-send / luna-service2), WebOSBrew, Linux  │
-│ Languages       │ TypeScript, JavaScript (ESNext), Python 3, Qt/QML, Shell / Bash         │
-│ Frontend & UI   │ Svelte, Tailwind CSS, Pure Black (#000000), Custom WebProcess Injection │
-│ Audio & Video   │ HDMI-CEC eARC, Dolby Vision, HDR10, HLG, Subtitle Pipeline Tuning       │
-│ Infrastructure  │ OpenWrt, Armbian HomeLab, WireGuard, Reverse Proxies, Docker            │
-└─────────────────┴─────────────────────────────────────────────────────────────────────────┘
-```
+#### 💻 Languages &amp; Core Runtimes
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python_3-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python 3" />
+  <img src="https://img.shields.io/badge/Qt_%2F_QML-41CD52?style=for-the-badge&amp;logo=qt&amp;logoColor=white" alt="Qt / QML" />
+  <img src="https://img.shields.io/badge/Shell_Bash-4EAA25?style=for-the-badge&amp;logo=gnubash&amp;logoColor=white" alt="Shell / Bash" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" />
+</p>
+
+#### 🎨 Frontend, Frameworks &amp; Styling
+<p align="left">
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&amp;logo=svelte&amp;logoColor=white" alt="Svelte" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/OLED_Black_%23000000-000000?style=for-the-badge&amp;logo=target&amp;logoColor=38bdf8" alt="OLED True Black" />
+</p>
+
+#### ⚙️ Embedded, Platforms &amp; Operating Systems
+<p align="left">
+  <img src="https://img.shields.io/badge/LG_webOS_24%2F25-A50034?style=for-the-badge&amp;logo=lg&amp;logoColor=white" alt="LG webOS" />
+  <img src="https://img.shields.io/badge/Luna_Bus_IPC-0284C7?style=for-the-badge&amp;logo=codeforces&amp;logoColor=white" alt="Luna Bus" />
+  <img src="https://img.shields.io/badge/Linux_Kernel-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Armbian-002B36?style=for-the-badge&amp;logo=armbian&amp;logoColor=white" alt="Armbian" />
+  <img src="https://img.shields.io/badge/OpenWrt-005B94?style=for-the-badge&amp;logo=openwrt&amp;logoColor=white" alt="OpenWrt" />
+  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&amp;logo=apple&amp;logoColor=white" alt="macOS" />
+</p>
+
+#### 🌐 Audio, Video, Networking &amp; Infrastructure
+<p align="left">
+  <img src="https://img.shields.io/badge/Dolby_Vision_%26_HDR10-000000?style=for-the-badge&amp;logo=dolby&amp;logoColor=white" alt="Dolby Vision" />
+  <img src="https://img.shields.io/badge/HDMI--CEC_eARC-7C3AED?style=for-the-badge&amp;logo=sony&amp;logoColor=white" alt="HDMI-CEC eARC" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&amp;logo=wireguard&amp;logoColor=white" alt="WireGuard" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" />
+</p>
 
 ---
 
